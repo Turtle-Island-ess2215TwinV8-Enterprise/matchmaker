@@ -1,4 +1,5 @@
-matchmaker
+
+MatchMaker
 ==========
 
-A folder synchronization tool
+A folder synchronization tool.
